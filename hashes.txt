@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos de medianoche
+
+This log tracks the cryptographic history and versioning for the song **Besos de medianoche** (besos-de-medianoche).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T09:27:38.042135 | `v1` | `030e92d089b876fadcbf366023b4028c18a266f002ec5fde9f98efb9968d5a88` | `482371628b89b62c62bc9cb4b0eb4ebc9debc21f3c09671dc9ab689cb3b5fb26` | `2026-06-20_besos-de-medianoche-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
